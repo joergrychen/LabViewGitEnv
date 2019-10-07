@@ -7,6 +7,8 @@ To view the actual code, switch to the branch that matches to your operating sys
 
 ## Example usage
 
+
+
 Assume you have a `master` branch with a few commits and a `feature` branch with new changes. You currently have `master` checked out.
 
 #### diff
